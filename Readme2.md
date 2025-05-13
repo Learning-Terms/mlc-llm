@@ -30,6 +30,5 @@
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course)：提供从设计到部署的完整课程，适合系统性学习 LLM 应用开发。
 - [LinkedInLearning/hands-on-ai-building-and-deploying-llm-powered-apps](https://github.com/LinkedInLearning/hands-on-ai-building-and-deploying-llm-powered-apps-4511409)：配套 LinkedIn Learning 课程，提供实战项目和代码示例
 
-- 
 
 
